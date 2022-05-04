@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+font-family: 'Gelasio', serif;
+font-family: 'Oswald', sans-serif;
+
+
+body {
+  font-family: 'Arial' , sans-serif;
+  background-color: White;
+  color: Navy;
+  text-allign: right;
+  padding-top: 10px
+}
+
+h1 {
+  font-family: 'Gelasio', serif;
+  background-color: white;
+  color: Navy;
+  padding-top: 15px;
+  padding-left: 10px;
+
+}
+
+h2 {
+  text-align: right;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  color: Black;
+  font-size: 50px;
+  font-weight: bold;
+  margin-left: 90px;
+  margin-right: 90px;
+
+}
+
+h4 {
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  font-weight: Medium;
+  color: Black;
+  margin-left: 90px;
+}
+
+h5 {
+  font-family: 'Gelasio', serif;
+  font-size: 25px;
+  font-weight: normal;
+  margin-left: 125px;
+  margin-right: 90px;
+}
+
+nav {
+  font-family: 'Gelasio', serif;
+  font-size: 18px;
+  color: black;
+}
+
+p {
+  font-family: 'Gelasio', serif;
+  font-size: 25px;
+  font-weight: normal;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+
+
+
+p1 Featured Content{
+text-align: center; }
