@@ -14,14 +14,18 @@ body {
 
 h1 {
   font-family: 'Gelasio', serif;
-  background-color: white;
   color: Navy;
   padding-top: 15px;
   padding-left: 10px;
 }
 
 h2 {
-  text-align: right;
+  font-family: 'Gelasio', serif;
+  background-color: white;
+  color: black;
+  font-size: 22px;
+  padding-top: 25px;
+  padding-right: 18px;
 }
 
 h3 {
@@ -57,5 +61,12 @@ nav {
 }
 
 
-p1 Featured Content{
-text-align: center; }
+a {
+  text-decoration: none;
+  color: Black;
+}
+
+.navbar {
+    border-top: 2.5px solid Black;
+    border-bottom: 2.5px solid Black;
+}

@@ -14,16 +14,28 @@ body {
 
 h1 {
   font-family: 'Gelasio', serif;
-  background-color: white;
   color: Navy;
   padding-top: 15px;
   padding-left: 10px;
-
 }
 
 h2 {
-  text-align: right;
+  font-family: 'Gelasio', serif;
+  background-color: white;
+  color: black;
+  font-size: 22px;
+  padding-top: 25px;
+  padding-right: 18px;
 }
+
+
+.navbar {
+    border-top: 2.5px solid Black;
+    border-bottom: 2.5px solid Black;
+}
+
+
+
 
 h3 {
   font-family: 'Oswald', sans-serif;
@@ -56,6 +68,7 @@ nav {
   font-family: 'Gelasio', serif;
   font-size: 18px;
   color: black;
+
 }
 
 p {
